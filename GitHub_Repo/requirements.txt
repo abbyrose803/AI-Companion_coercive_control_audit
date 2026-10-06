@@ -1,0 +1,9 @@
+ollama
+openpyxl
+numpy
+matplotlib
+statsmodels
+wordcloud
+pandas
+seaborn
+scipy
